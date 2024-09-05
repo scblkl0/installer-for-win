@@ -1,0 +1,1 @@
+Simple console program for windows for installing other programs. This program is using winget. If there is not preinstalled winget with windows, this program will check and install if it needed. In future there will be other updates.
